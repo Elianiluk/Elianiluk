@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elian Iluk 👋</h1>
 
 <p align="center">
-  <em>B.Sc in Computer Science, Ariel University · Jerusalem, Israel</em><br>
+  <em>M.Sc in Computer Science, Ariel University · Jerusalem, Israel</em><br>
   Machine Learning · Deep Learning · Computer Vision
 </p>
 
