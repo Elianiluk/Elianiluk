@@ -16,7 +16,7 @@
 
 ### Mixture of Channel Experts (MoCE)
 **Static Sparse Supports with Input-Adaptive Mixing for Pointwise Projections**
-<br>*Elian Iluk, Gil Ben-Artzi — submitted to AAAI*
+<br>*Elian Iluk, Gil Ben-Artzi*
 
 > A structured sparse channel-mixing layer that replaces dense `1×1` convolutions. Each output channel reads a
 > learned, static top-`k` subset of input channels and mixes them with an input-conditioned temperature — cutting
