@@ -51,13 +51,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elianiluk&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elianiluk&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165">
-</p>
-
----
-
 <p align="center"><em>📍 Jerusalem, Israel · Open to research and ML engineering opportunities</em></p>
